@@ -1,0 +1,286 @@
+Serial number,Model,Time to get on the train,city,starting point,end,Mileage [km],The amount [yuan]
+1,express train,03-28 23:14 Thursday,Beijing,Xingye Street | Beijing Petrochemical Institute - North 1,Guanyin Temple Community 25th,4.5,17.2
+2,express train,03-31 15:21 Sunday,Beijing,Xinghua Street | Zaoyuan East - West District - South Gate,Daxing District | Kang Taiyuan,2.8,10.4
+3,express train,03-31 19:48 Sunday,Beijing,Kangmei Road | Kang Taiyuan - South Gate,Xingye Street | Beijing Petrochemical Institute - North 1,2.3,9.1
+4,express train,04-02 10:34 Tuesday,Beijing,Beijing Petrochemical Academy - South Gate,Guanyin Temple Community 25th,3.9,11.44
+5,express train,04-03 07:13 Wednesday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,3.8,18.08
+6,express train,04-04 11:21 Thursday,Beijing,National Education Administration - North Gate,Guanyin Temple Community 25th,4,13.08
+Seduce,express train,04-06 00:00 Saturday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Daxing District | Kang Taiyuan,2.1,13
+8,express train,04-06 16:20 Saturday,Beijing,Kangzhuang Road | Sunshine Baida Pharmacy (16th Branch),Guanyin Temple Community 25th,6.2,20.12
+9,express train,04-07 14:57 Sunday,Beijing,Guanyin Temple - North Gate,Xinghua Street | 妍 堂 丽缇娜 (Liyuan),3.4,13
+10,express train,04-08 09:35 Monday,Beijing,Beijing Petrochemical Academy - South Gate,Guanyin Temple Community 25th,4,12.24
+11,express train,04-08 21:39 Monday,Beijing,Xinghua Street | Zaoyuan Dongli West District - West Gate,Guanyin Temple Community 25th,4.5,21.2
+12,express train,04-09 07:34 Tuesday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,3.5,18.4
+Mean,express train,04-09 18:09 Tuesday,Beijing,Huang Village | Daxingyi - West Gate,Huangcun | Haili Hot Pot (Xingcheng Commercial Building),2.4,12.09
+14,express train,04-09 22:06 Tuesday,Beijing,Xinghua Street | Beijing Petrochemical Institute - North 1st Gate - Get Car,Guanyin Temple Community 25th,4.4,19.04
+15,express train,04-10 07:28 Wednesday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,3.3,14.88
+16,express train,04-11 16:40 Thursday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Guanyin Temple Community 25th,4.4,14.54
+In one,express train,04-14 19:28 Sunday,Beijing,Xinghua Street | Beijing Petrochemical Institute (North 2),Daxing District | Kang Taiyuan,2.4,11.96
+In,express train,04-16 12:49 Tuesday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Xingfeng Street | North District - North 1st,2.9,11.05
+19,express train,04-21 15:02 Sunday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Guanyin Temple Community 25th,4.4,13.1
+20,express train,04-24 19:32 Wednesday,Beijing,Xinghua Street | Xingchuang Building - North Side of Dongmen,Xingye Street | Beijing Petrochemical Institute - North 1,2.2,11.96
+twenty one,express train,04-25 13:14 Thursday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Guanyin Temple Community 25th,4.8,12.12
+twenty two,express train,04-29 15:53 ??Monday,Beijing,Guanyin Temple - North Gate,Xingye Street | Beijing Petrochemical Institute - North 1,3.7,13
+twenty three,express train,04-30 16:11 Tuesday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,园 商城 (Huangcun East Street),3,13
+twenty four,express train,05-01 18:56 Wednesday,Beijing,Xingye Street | Zaoyuan Community - Northwest Gate,Daxing District | Kang Taiyuan (South Gate),1.7,13
+25,express train,05-07 17:05 Tuesday,Beijing,Xinghua Street | Zaoyuan Community - South Gate,Guanyin Temple Community 25th,4.3,14.42
+26,express train,05-08 07:29 Wednesday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,3.7,17.12
+27,express train,05-09 11:26 Thursday,Beijing,Xinghua Street | Beijing Petrochemical Institute - South Gate,Guanyin Temple Community 25th,4,13
+Twist,express train,05-10 21:40 Friday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Guanyin Temple Community 25th,4.4,18.04
+29,express train,05-13 07:34 Monday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,4,18.4
+30,express train,05-15 14:27 Wednesday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Guanyin Temple Community 25th,4.3,13.38
+31,express train,05-16 09:55 Thursday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Daxing District | Kang Taiyuan,2.1,12.48
+32,express train,05-16 15:25 Thursday,Beijing,Kangmei Road | Kang Taiyuan - South Gate,Xingye Street | Beijing Petrochemical Institute - North 1,2.2,12.48
+33,express train,05-18 16:02 Saturday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Guanyin Temple Community 25th,4.4,14.82
+34,express train,05-23 22:19 Thursday,Beijing,Xingye Street | Industrial and Commercial Bank of China (Liyuan Road Branch),Guanyin Temple Community 25th,4.7,16.81
+35,express train,05-27 22:46 Monday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Guanyin Temple Community 25th,4.4,17.04
+36,express train,05-28 07:33 Tuesday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,3.9,19.84
+37,express train,06-01 22:58 Saturday,Beijing,Xingye Street | Industrial and Commercial Bank of China (Liyuan Road Branch),Guanyin Temple Community 25th,4.6,21.14
+38,express train,06-02 16:59 Sunday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.1,20.94
+39,express train,06-04 17:30 Tuesday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Guanyin Temple Community 25th,4.3,17.28
+40,express train,06-08 10:22 Saturday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.2,18.73
+41,express train,06-08 16:56 Saturday,Beijing,Xinghua Street | Pop Commune Community,Huangcun | Daxing No. 1 Middle School - North Gate,3.2,11.44
+42,express train,06-08 21:07 Saturday,Beijing,"Xingye Street | Industrial and Commercial Bank of China (Liyuan Road Branch
+)opposite",Huang Village West Street - Subway Station,2.8,13
+43,express train,06-09 15:45 Sunday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.5,20.98
+44,express train,06-09 16:09 Sunday,Beijing,Kangmei Road | Kang Taiyuan - South Gate,"No. 53, Kangzhuang Road, Daxing District | Kang Taiyuan (South Gate)",12.6,38.86
+45,express train,06-10 07:35 Monday,Beijing,Huangcun | Kang Taiyuan,Xingye Street | Beijing Petrochemical Institute - North 1,2.2,13
+46,express train,06-13 20:57 Thursday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Daxing District | Kang Taiyuan,0.9,13
+47,express train,06-14 12:42 Friday,Beijing,Kangmei Road | Kang Taiyuan - South Gate,Xingye Street | Beijing Petrochemical Institute - North 1,2.3,12.87
+48,express train,06-14 22:18 Friday,Beijing,"Xingye Street | Industrial and Commercial Bank of China (Liyuan Road Branch
+)opposite",Guanyin Temple Community 25th,4.6,16.15
+49,express train,06-15 15:43 Saturday,Beijing,Xinghua Street | Beijing Petrochemical Institute - South Gate,Daxing District | Kang Taiyuan,2.4,12.87
+50,express train,06-16 18:04 Sunday,Beijing,Guanyin Temple - North Gate,Xingye Street | Beijing Petrochemical Institute - North 1,4,14.05
+51,express train,06-16 19:42 Sunday,Beijing,Xinghua Street | Rainbow New City Shop,Daxing District | Kang Taiyuan,3.6,11.44
+52,express train,06-16 23:41 Sunday,Beijing,Xinghua Park - Bus Station Road West,Guanyin Temple Community 25th,3.9,14.29
+53,express train,06-22 16:26 Saturday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Daxing District | Kang Taiyuan,2.4,13
+54,express train,06-23 21:21 Sunday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.2,26.92
+55,express train,06-24 17:30 Monday,Beijing,Xinbei Northeast Cuisine (Kangzhuang Road),Xingye Street | Beijing Petrochemical Institute - North 1,5.4,23.04
+56,express train,06-25 15:11 Tuesday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Daxing District | Kang Taiyuan,2.2,13
+57,express train,06-25 21:00 on Tuesday,Beijing,Xinghua Street | Zaoyuan Subway Station D Southwest,Daxing District | Kang Taiyuan,2.5,13
+58,express train,06-25 22:01 Tuesday,Beijing,"Xingye Street | Industrial and Commercial Bank of China (Liyuan Road Branch
+)opposite",Daxing District | Kang Taiyuan,2.6,13
+59,express train,06-26 10:57 Wednesday,Beijing,Xinbei Northeast Cuisine (Kangzhuang Road),Xingye Street | Beijing Petrochemical Institute - North 1,2.3,13
+60,express train,06-26 16:12 Wednesday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Guanyin Temple Community 25th,4.4,14.04
+61,express train,07-14 18:17 Sunday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.2,18.39
+62,express train,07-15 12:06 Monday,Beijing,Kangmei Road | Kang Taiyuan - South Gate,Guanyin Temple Community 25th,6.3,19.62
+63,express train,07-15 14:49 Monday,Beijing,Guanyin Temple - North Gate,Zaoyuan - Metro Station,6.3,24.12
+64,express train,07-24 13:14 Wednesday,Beijing,current position,Zaoyuan - Metro Station,4.1,15.04
+65,express train,07-24 18:56 Wednesday,Beijing,current position,"Xinghua Street | Coffee One Color (Southeast of Liyuan Community, Petrochemical College)",3.5,16.43
+66,express train,07-25 17:00 on Thursday,Beijing,current position,Daxing District | Kang Taiyuan,6.2,24.88
+67,express train,07-26 08:12 Friday,Beijing,current position,Binhe | Daxing Second Middle Station Bicycle Lease,2.6,14
+68,express train,07-27 15:52 Saturday,Beijing,current position,Daxing District | Oriental Le Chao KTV,2.4,13
+69,express train,07-27 18:02 Saturday,Beijing,current position,Guanyin Temple Community 25th,2.3,11.44
+70,express train,07-30 10:47 Tuesday,Beijing,current position,Qingyuan | Nuclear Industry Management Cadre Academy,2,13
+71,express train,07-30 15:32 Tuesday,Beijing,current position,"Xinghua Street | Coffee One Color (Southeast of Liyuan Community, Petrochemical College)",2.2,10.4
+72,express train,08-01 09:58 Thursday,Beijing,current position,Daxing District | Kang Taiyuan,6.2,22.48
+73,express train,08-03 12:24 Saturday,Beijing,current position,Huang Village West Street - Subway Station,1.7,13
+74,express train,08-04 12:34 Sunday,Beijing,current position,Daxing District | Hengyuan Farmhouse (Second Store),4.2,15.11
+75,express train,08-04 16:29 Sunday,Beijing,current position,Xinghua Street | Beijing Printing College,3,13
+76,express train,08-04 17:19 Sunday,Beijing,current position,Daxing District | Kang Taiyuan,3.2,13.31
+77,express train,08-05 20:14 Monday,Beijing,current position,Guanyin Temple Community 25th,8.1,27.21
+78,express train,08-06 19:40 Tuesday,Beijing,current position,Xinghua Street | Boolean Professional Pet Maintenance Center,3.6,14.99
+79,express train,08-06 21:44 Tuesday,Beijing,current position,Guanyin Temple Community 25th,4.2,18
+80,express train,08-07 11:38 Wednesday,Beijing,current position,Xinghua Street | Beijing Petrochemical Technology - North 2,4.7,15.88
+81,express train,08-07 12:11 Wednesday,Beijing,current position,Huangcun | Chuanfu Muck Restaurant,3.8,12.99
+82,express train,08-07 22:39 Wednesday,Beijing,current position,Chongwenmen - Subway Station,0.1,14.08
+83,express train,08-09 16:17 Friday,Beijing,current position,Xinghua Street | Beijing Primary School Daxing Division,3,13
+84,express train,08-09 16:54 Friday,Beijing,current position,Daxing District | Tianyu Square,2.6,13
+85,express train,08-09 19:11 Friday,Beijing,Zaoyuan Road | Daxing District No. 10 Kindergarten - South Gate,"Xinghua Street | Zaoyuan Primary School in Daxing District, Beijing",0.9,14
+86,express train,08-15 12:15 Thursday,Beijing,Guanyin Temple - North Gate,Zaoyuan - Metro Station,4.3,14.82
+87,express train,08-16 15:23 Friday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.2,21.98
+88,express train,08-17 20:53 Saturday,Beijing,Toward Hotel (Beijing Huangcun West Street),Xingye Street | Beijing Petrochemical Institute - North 1,4.4,15.97
+89,express train,08-17 21:26 Saturday,Beijing,Xingye Street | Industrial and Commercial Bank of China (Liyuan Road Branch),Guanyin Temple Community 25th,4.7,18.42
+90,express train,08-18 15:08 Sunday,Beijing,Guanyin Temple - North Gate,Zaoyuan - Metro Station,4,14.53
+91,express train,08-19 16:43 Monday,Beijing,Guanyin Temple - North Gate,Xingye Street | Beijing Petrochemical Institute - North 1,4.7,15.38
+92,express train,08-21 10:18 Wednesday,Beijing,Guanyin Temple - North Gate,Zaoyuan - Metro Station,4.3,14.82
+93,express train,08-23 10:09 Friday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.2,21.48
+94,express train,08-25 14:18 Sunday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.1,20.86
+95,express train,08-27 21:25 Tuesday,Beijing,Kangzhuang Road | Total Total Hing Kang Home - Begin,Xingye Street | Beijing Petrochemical Institute - North 1,1.9,14
+96,express train,08-28 13:21 Wednesday,Beijing,Kangmei Road | Kang Taiyuan - South Gate,Zaoyuan - Metro Station,2.3,13
+97,express train,08-28 22:10 Wednesday,Beijing,Xingye Street | Industrial and Commercial Bank of China (Liyuan Road Branch),Guanyin Temple Community 25th,4.6,17.6
+98,express train,08-29 22:10 Thursday,Beijing,Xingye Street | Industrial and Commercial Bank of China (Liyuan Road Branch),Guanyin Temple Community 25th,4.7,19.78
+99,express train,08-30 17:40 Friday,Beijing,Guanyin Temple - North Gate,Xingye Street | Beijing Petrochemical Institute - North 1,4.7,21.28
+100,express train,08-31 13:37 Saturday,Beijing,Attel bag (Zaoyuan Road),Guanyin Temple Community 25th,5.7,16.34
+101,express train,09-06 20:20 Friday,Beijing,Xinghua Street | Zaoyuan Community - Opposite South Gate,Guanyin Temple Community 25th,4.3,16.95
+102,express train,09-07 12:33 Saturday,Beijing,Xinghua Street | Yoshino (Zaoyuan Road),Guanyin Temple Community 25th,6.3,29.21
+103,express train,09-09 13:14 Monday,Beijing,Guanyin Temple North Railway,Xinghua Street | Greenland Central Square (Tommy),4.8,15.52
+104,express train,09-12 16:25 Thursday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Guanyin Temple Community 25th,4.1,16.04
+105,express train,09-12 17:42 Thursday,Beijing,Guanyin Temple - North Gate,Huang Village West Street - Subway Station,1.6,14
+106,express train,09-13 09:46 Friday,Beijing,Xinghua Street | Beijing Petrochemical Institute - South Gate,Guanyin Temple Community 25th,4.1,15.28
+107,express train,09-24 09:18 Tuesday,Beijing,Guanyin Temple - North Gate,Xingye Street | Beijing Petrochemical Institute - North 1,4.9,17.14
+108,express train,09-27 09:21 Friday,Beijing,Guanyin Temple - North Gate,Xingye Street | Beijing Petrochemical Institute - North 1,4.2,17.58
+109,express train,09-28 17:43 Saturday,Beijing,Xinghua Street | Beijing Petrochemical Institute - South Gate,Guanyin Temple Community 25th,4.1,15.28
+110,express train,10-02 19:09 Wednesday,Beijing,Xingfeng Street | KFC (Greenland Colorful Chengbei District) Southeast Side,"Guanyin Temple Primary School, Huangcun Town, Daxing District",4.7,15.6
+111,express train,10-02 20:55 Wednesday,Beijing,Guanyin Temple - North Gate,Xingye Street | Beijing Petrochemical Institute - North 1,4.6,16.55
+112,express train,10-02 21:33 Wednesday,Beijing,Xingye Street | Industrial and Commercial Bank of China (Liyuan Road Branch),Guanyin Temple Community 25th,4.3,16.89
+113,express train,10-03 13:44 Thursday,Beijing,"No. 189, Xingsheng Street - East 2",Zaoyuan - Metro Station,1.3,13
+114,express train,10-03 17:11 Thursday,Beijing,"Huangcun | Beijing Daxing District Center for Disease Control and Prevention
+South Gate","Guanyin Temple Primary School, Huangcun Town, Daxing District",1.6,13
+115,express train,10-04 21:54 Friday,Beijing,"Xingye Street | Industrial and Commercial Bank of China (Liyuan Road Branch
+)opposite",Guanyin Temple Community 25th,4.6,17.55
+116,express train,10-07 11:11 Monday,Beijing,Guanyin Temple - North Gate,Get a gathering of the West Red Gate Mall Underground Parking - Entrance,7.8,22.14
+117,express train,10-07 21:42 Monday,Beijing,Xinghua Park - Bus Station Road West,Guanyin Temple Community 25th,3.7,15.55
+118,express train,10-08 10:17 Tuesday,Beijing,Guanyin Temple - North Gate,Xingye Street | Beijing Petrochemical Institute - North 1,4.3,15.32
+119,express train,10-08 21:47 Tuesday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Guanyin Temple Community 25th,4.2,17.35
+120,express train,10-09 13:13 Wednesday,Beijing,Guanyin Temple - North Gate,Xingye Street | Beijing Petrochemical Institute - North 1,4.2,14.68
+121,express train,10-14 19:27 Monday,Beijing,Xingye Street | Beijing Petrochemical Institute - North 1,Guanyin Temple Community 25th,4.5,18.08
+122,express train,10-19 19:08 Saturday,Beijing,Guanyin Temple - North Gate,Xinghua Street | The most moving city,310,13.15
+123,express train,11-02 22:36 Saturday,Beijing,Xingye Street | Industrial and Commercial Bank of China (Liyuan Road Branch),Guanyin Temple Community 25th,4.7,17.77
+124,express train,11-05 11:33 Tuesday,Beijing,Xinghua Street | Beijing Petrochemical Technology - North 2,Guanyin Temple Community 25th,4.1,14.6
+125,express train,11-05 15:52 Tuesday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,3.7,13.14
+126,express train,11-10 16:06 Sunday,Beijing,Xinghua Street | Rainbow New Town - West 1,"Guanyin Temple Primary School, Huangcun Town, Daxing District",3.6,7.92
+127,express train,11-10 18:05 Sunday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.19,20.62
+128,express train,11-21 12:40 Thursday,Beijing,Zhichun Road | Panya Building - North Gate,College Road | Beijing University of Science and Technology - East 2,5.8,16.03
+129,express train,11-21 13:20 Thursday,Beijing,College Road | Beijing University of Science and Technology - East 2,Dingfifu | Beijing Second Foreign Language College,27.36,47.72
+130,express train,11-24 17:40 Sunday,Beijing,Will Tiantu | Wide Subway Station C,Putting Table | Zmax Hotels Beijing Jiqian 798 Hotel (7 ...,1.7,13
+131,express train,11-29 18:11 Friday,Beijing,Xingye Street | Industrial and Commercial Bank of China (Liyuan Road Branch),Guanyin Temple Community 25th,4.4,21.11
+132,express train,11-29 19:30 Friday,Beijing,"Elementary School, Huangcun Town, Daxing District - West Gate","Yellow Village West Street Metro Station, Northwest",1.7,14
+133,express train,11-30 14:31 Saturday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.2,23.43
+134,express train,12-01 13:44 Sunday,Beijing,Guanyin Temple - North Gate,"Xinghua Street | Coffee One Color (Southeast of Liyuan Community, Petrochemical College)",4.1,9.74
+135,express train,12-04 22:30 Wednesday,Beijing,Xinghua Street | Aisafel (Daxing Qi shop),Guanyin Temple Community 25th,4.2,16.7
+136,express train,12-07 16:07 Saturday,Beijing,Kangmei Road | Kang Taiyuan - South Gate,Guanyin Temple Community 25th,6.3,22.25
+137,express train,12-09 13:08 Monday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,4,13.68
+138,express train,12-27 16:14 Friday,Beijing,Xingye Street | Industrial and Commercial Bank of China (Liyuan Road Branch),Guanyin Temple Community 25th,4.7,12.38
+139,express train,12-27 17:52 Friday,Beijing,Guanyin Temple - North Gate,Xingfeng Street | Shenghe Xuan Roasted Duck Store (Rainbow New City),3,14.06
+140,express train,12-27 23:27 Friday,Beijing,Kangzhuang West Lane | Beijing Daxing Huaxia Village Town Bank,Xinghua Street | Greenland Central Square (Tommy),2.8,13.3
+141,express train,12-28 08:51 Saturday,Beijing,Dawang Road | LGD (Golden Plaza Shop),Chaoyang District | Oga Museum Hotel,0,4
+142,express train,12-28 08:57 Saturday,Beijing,Dawang Road | Beijing Bank (Modern City Branch),Chaoyang District | Oga Museum Hotel,7,18.43
+143,express train,12-28 17:13 Saturday,Beijing,"Flagship Road | Haitong, Wutong Court - North Gate","Chaoyang District | No. 34, Happiness Er Village",23.4,77.81
+144,express train,12-31 10:10 Tuesday,Beijing,Guanyin Temple - North Gate,Xingye Street | Beijing Petrochemical Institute - North 1,3.8,14.12
+145,express train,01-01 18:02 Wednesday,Beijing,Xinghua Street | Zaoyuan Metro Station near the southeast of C.,Daxing District | Kang Taiyuan,2.9,13
+146,express train,01-07 10:29 Tuesday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Printing College - North Gate,3.3,13.42
+147,express train,01-08 11:48 Wednesday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.2,18.98
+148,express train,01-11 13:15 Saturday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.3,21.21
+149,express train,01-12 10:45 Sunday,Beijing,Guanyin Temple - North Gate,Hui · Xihongmen Shopping Center - Northeast Gate,7.8,24.54
+150,express train,01-12 12:05 Sunday,Beijing,Subway West Hongmen Station - Bus Station Road West,Big Pizza (West Red Gate Xindu Hui),1.9,13
+151,express train,01-13 20:12 Monday,Beijing,Kangmei Road | Kang Taiyuan - South Gate,"Daxing Hospital, Capital Medical University, No. 26 Huangcun West Street, Daxing District | Capital Medical University Daxing Medical ...",4.6,16.64
+152,express train,01-14 16:14 Tuesday,Beijing,Kangmei Road | Kang Taiyuan - South Gate,Huang Zun | Daxing Hospital of Capital Medical University - North 1,4.5,15.6
+153,express train,01-16 13:51 Thursday,Beijing,Guanyin Temple - North Gate,"Huangcun Railway Station Metro Station, Northwest",2.8,13
+154,express train,01-19 15:05 Sunday,Beijing,Guanyin Temple - North Gate,"150m-Biyuan, Intersection of Xingye Street and Zaoyuan Road, Daxing District | Liyuan B District - North ...",4.6,17.24
+155,express train,01-20 21:47 Monday,Beijing,Xinbei Northeast (Kangzhuang Road) Southwest,Guanyin Temple Community 25th,6.3,23.38
+156,express train,01-22 14:35 Wednesday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.1,23.84
+157,express train,01-22 15:04 Wednesday,Beijing,Xinbei Northeast Cuisine (Kangzhuang Road),Huang Village West Street - Subway Station,4.5,20.1
+158,express train,01-22 15:35 Wednesday,Beijing,Huangcun | Capital Medical University Daxing Hospital - North Gate,Daxing District | Kang Taiyuan,5.6,23.14
+159,express train,01-22 17:11 Wednesday,Beijing,Xinbei Northeast Cuisine (Kangzhuang Road),Guanyin Temple Community 25th,6.36,26.56
+160,express train,01-24 12:15 Friday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.2,30.03
+161,express train,01-25 13:52 Saturday,Beijing,Xinbei Northeast (Kangzhuang Road) Southwest,Daxing District | Paradise River Community North District,13.9,45.98
+162,express train,01-27 12:27 Monday,Beijing,Guanyin Temple - North Gate,Daxing District | Kang Taiyuan,6.2,33.03
+163,Drip express,04-01 11:52 Thursday,Beijing,Tug | Beijing Shijingshan Wanda Plaza - West Gate,Shijingshan District | Northern University of Technology - South Gate,4.6,15.32
+164,Dripper,04-01 12:13 Thursday,Beijing,Octagody Street | Northern University of Technology - South Gate,Hui Shopping Center (West Hongmen Store) North side - get off,26.6,81.82
+165,Drip express,04-01 14:33 Thursday,Beijing,Subway West Hongmen Station - Bus Station (Xinning Street) Road West,Guanyin Temple North Railway - East Gate,7.7,20.58
+166,Drip express,04-01 18:35 Thursday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,3.8,15.32
+167,Drip express,04-01 21:43 Thursday,Beijing,Xinghua Street | Beijing Petrochemical Institute - South Gate,Guanyin Temple Community 25th,3.7,15.58
+168,Drip express,04-04 11:48 Sunday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Zaoyuan Shangcheng South District - North Gate,4.5,15.3
+169,Drip express,04-06 22:04 Tuesday,Beijing,Xinghua Street | Zaoyuan-C port (southeast),Guanyin Temple Community 25th,6.7,24.93
+170,Drip express,04-07 09:28 Wednesday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,3.8,15.32
+171,Drip express,04-07 21:35 Wednesday,Beijing,Xinghua Street | Beijing Petrochemical Institute - South Gate,Guanyin Temple Community 25th,4,16.25
+172,Drip express,04-08 23:04 Thursday,Beijing,Xinghua Street | Zaoyuan Community - South Gate South,Guanyin Temple North Railway - East Gate,3.7,15.58
+173,Drip express,04-10 13:25 Saturday,Beijing,Xinghua Street | Beijing Petrochemical Institute - South Gate,Hui Shopping Center (West Hongmen Store) North side - get off,5.2,15.18
+174,Drip express,04-13 21:02 Tuesday,Beijing,Xinghua Street | Rainbow New City - Opposite West Gate,Guanyin Temple Community 25th,3.5,15.13
+175,Drip express,04-14 09:31 Wednesday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,3.5,14.83
+176,Drip express,04-21 20:19 Wednesday,Beijing,Xinghua Street | Xingchuang Building - North Gate,Xinghua Street | Zaoyuan Shangcheng South District - North Gate,1.3,14
+177,Drip express,04-28 07:01 Wednesday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Zaoyuan Shangcheng South District - North Gate,4.4,17.91
+178,Drip express,04-28 19:55 Wednesday,Beijing,Xingye Street | Beijing Petrochemical Institute - North Gate,Guanyin Temple Community 25th,4.2,15.98
+179,Drip express,04-29 22:12 Thursday,Beijing,Xuanwumen Subway Station E,Chongwenmen | Beijing Hui,3.86,12.27
+180,Drip express,05-02 15:57 Sunday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Zaoyuan Shangcheng South District - North Gate,4.5,15.3
+181,Drip express,05-02 21:07 Sunday,Beijing,Xinghua Street | Zaoyuan Shangcheng South District - East Gate,Guanyin Temple Community 25th,4.2,16.66
+182,Drip express,05-04 16:19 Tuesday,Beijing,New Sports Street | Nai Xue Tea (Beijing Kaide Tiangongyuan),Guanyin Temple Community 25th,8.9,25.03
+183,Drip express,05-08 22:59 Saturday,Beijing,Xinghua Street | Beijing Printing College - East Gate,Guanyin Temple Community 25th,3.2,14.45
+184,Drip express,05-10 16:02 Monday,Beijing,Xinghua Street | Beijing Petrochemical Institute - South Gate,Guanyin Temple Community 25th,4,14.4
+185,Drip express,05-12 19:15 Wednesday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,2.9,14
+186,Drip express,05-16 12:01 Sunday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Zaoyuan Shangcheng South District - North Gate,4.3,15.29
+187,Drip express,05-19 21:31 Wednesday,Beijing,Xinghua Street | Beijing Petrochemical Institute - North 3,Guanyin Temple Community 25th,4.8,18.05
+188,Drip express,05-22 13:11 Saturday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,3.9,14.58
+189,Dripper,05-22 16:01 Saturday,Beijing,"Building B, National Gate Subway Station","Chaoyang District | No. 34, Happiness Er Village Community",4.4,25.79
+190,Dripper,05-24 16:04 Monday,Beijing,Xinghua Street | Beijing Petrochemical Institute - South Gate,Haizi East Exit - Bus Station,5.4,25.76
+191,Drip express,05-24 18:16 Monday,Beijing,Haizi East Exit - Bus Station - Gettle,Xinghua Street | Beijing Petrochemical Institute - South Gate,7.08,22.19
+192,Drip express,05-28 12:44 Friday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,3.7,12.87
+193,Drip express,05-31 22:04 Monday,Beijing,Xinghua Street | Beijing Petrochemical Institute - South Gate,Guanyin Temple Community 25th,3.96,14.5
+194,Drip express,06-02 22:07 Wednesday,Beijing,Xinghua Street | Beijing Petrochemical Institute - North 3,Guanyin Temple Community 25th,4.09,14.16
+195,Drip express,06-04 17:57 Friday,Beijing,Xinghua Street | Beijing Petrochemical Institute - South Gate,Guanyin Temple Community 25th,3.97,17.64
+196,Drip express,06-07 06:46 Monday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - North 3,4.84,15.95
+197,Drip express,06-09 21:01 Wednesday,Beijing,Xinghua Street | Beijing Petrochemical Institute - North 3,Guanyin Temple Community 25th,4.17,14.99
+198,Drip express,06-13 12:16 Sunday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Zaoyuan Shangcheng South District - North Gate,4.5,15.64
+1999,Drip express,06-14 14:39 Monday,Beijing,Guanyin Temple - North Gate,Daxing District | East Side of Paradise River Community - get off,8.6,26.06
+200,Drip express,06-15 20:35 Tuesday,Beijing,Xinghua Street | Zaoyuan Shangcheng South District - Dongmen Southeast Side,Guanyin Temple Community 25th,4.6,17.44
+201,Drip express,06-16 08:08 Wednesday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - North 3,3.9,16.29
+202,Drip express,06-18 22:30 Friday,Beijing,Xinghua Street | Century Hualian life supermarket Zaoyuan store,Guanyin Temple Community 25th,4.52,15.6
+203,Drip express,06-19 14:10 Saturday,Beijing,Huangcun | Fire Temple - North Gate,Huang Village West Street - Subway Station,1.84,11.05
+204,Drip express,06-19 19:18 Saturday,Beijing,Xinghua Street | Zaoyuan Metro Station,Guanyin Temple Community 25th,4.5,14.54
+205,Drip express,06-20 11:23 Sunday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Zaoyuan Shangcheng South District - North Gate,4.4,15.74
+206,Drip express,06-21 10:43 Monday,Beijing,"Tuangmen Bridge | 2nd Gate, Southern District",Industrial and Commercial Bank of China (Beijing North Taipingzhuang Branch),4.3,17.29
+207,Drip express,06-22 21:25 Tuesday,Beijing,Archway East Street 23 - West Gate,Phase III of Metro No. 19; Subway Line 4 Daxing Line; Subway Line 6 is safe - subway station | ...,6.7,27.56
+208,Drip express,06-22 22:32 Tuesday,Beijing,Xinghua Street | Century Hualian life supermarket Zaoyuan store,Guanyin Temple Community 25th,4.46,15.25
+209,Drip express,06-24 23:03 Thursday,Beijing,Xinghua Street | Beijing Petrochemical Institute - South Gate,Guanyin Temple Community 25th,4,16.25
+210,Drip express,06-25 18:25 Friday,Beijing,Wukou | Tsinghua Tongfang Technology Square - East Gate,Xinjiekou Metro Station,9.6,32.96
+211,Drip express,06-25 19:51 Friday,Beijing,Xinghua Street | Zaoyuan Subway Station A Near II - Gettle Point,Daxing District | First Carnival City - East Gate,1.8,14
+212,Drip express,06-26 09:43 Saturday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Zaoyuan Shangcheng South District - North Gate,4.7,21.23
+213,Drip express,06-26 21:56 Saturday,Beijing,Xinghua Street | Zaoyuan Shangcheng South District - East Gate,Guanyin Temple Community 25th,4.6,17.55
+214,Drip express,06-27 14:24 Sunday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Coffee,4,14.76
+215,Drip express,06-27 21:07 Sunday,Beijing,Xinghua Street | Zaoyuan Shangcheng South District - North Gate,Guanyin Temple Community 25th,4.6,17.55
+216,Drip express,06-28 09:26 Monday,Beijing,Guanyin Temple - North Gate,"Daxing District | No. 19, No. 30, Carnation City, opened",5.6,19.89
+217,Drip express,06-28 13:29 Monday,Beijing,"East side of the No. 30, No. 30, Carnation, No. 30, Carnation",Xinghua Street | Zaoyuan Shangcheng South District - North Gate,2.5,13
+218,Drip express,06-28 20:21 Monday,Beijing,Mingguang Village West Railway Station - Bus Station Road South,Front Door | No Primary Hotel (Beijing Fang Store),10.6,37.94
+219,Drip express,06-29 13:04 Tuesday,Beijing,Huangcun West Street Subway Station,Guanyin Temple Community 25th,2.4,15
+220,Drip express,07-02 18:16 Friday,Beijing,Guanyin Temple - North Gate,Metro Line 4 Daxing Line | Zaoyuan - Metro Station,4,20.68
+221,Drip express,07-02 21:35 Friday,Beijing,Xinghua Street | Century Hualian life supermarket Zaoyuan store,Guanyin Temple Community 25th,4.4,15.25
+222,Drip express,07-04 12:20 Sunday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Zaoyuan Shangcheng South District - North Gate,4.36,12.62
+223,Drip express,07-06 17:23 Tuesday,Beijing,Guanyin Temple - North Gate,Yellow Village Railway Station Near Boute Bette,2.32,9.77
+224,Drip express,07-06 22:16 Tuesday,Beijing,Archway East Street 23 - West Gate,Xinjiekou | Ping An Li Subway Station A,6.55,16.44
+225,Drip express,07-06 23:26 Tuesday,Beijing,Xinghua Street | Century Hualian life supermarket Zaoyuan store,Guanyin Temple Community 25th,4.31,10.4
+226,Drip express,07-07 17:30 Wednesday,Beijing,Guanyin Temple - North Gate,Daxing District | Uncle Sam (Tianjian Plaza Campus),5.38,20.97
+227,Drip express,07-07 18:38 Wednesday,Beijing,Zaoyuan Road | Uncle Sam (Tianjian Plaza Campus),"Beiyuan, Zaoyuan, Zaoyuan, Zaoyuan, Zaoyuan, Zaoyuan, Zaoyuan, Zaoyuan, Zaoyuan, Shiyuan, Shiji District, Beijing, China | Zaoyuan Shangcheng South District - North Gate",1.2,12.57
+228,Drip express,07-07 20:56 Wednesday,Beijing,Xinghua Street | Zaoyuan Shangcheng South District - East Gate,Guanyin Temple Community 25th,4.61,16.97
+229,Drip express,07-08 16:03 Thursday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Gao Mi Northern Subway Station,6.76,18.09
+230,Drip express,07-08 16:23 Thursday,Beijing,"Xinghua Street | Near Gaomei, Night Object Station",Huangcun | Flower Building Huaxing Hotel,4.55,16.1
+231,Drip express,07-09 14:06 Friday,Beijing,Huangcun | Huazhu · Beijing Huaxing Hotel - East Gate,Guanyin Temple Community 25th,1.86,11.57
+232,Drip express,07-11 13:23 Sunday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Printing College - East Gate,3.4,15.8
+233,Drip express,07-13 12:24 Tuesday,Beijing,Guanyin Temple - North Gate,Huang Village West Street - Subway Station,1.7,13
+234,Drip express,07-13 14:17 Tuesday,Beijing,Archway East Street 23 - West Gate,"Chaoyang District | No. 34, Happiness Er Village Community",7.1,29.61
+235,Drip express,07-13 16:06 Tuesday,Beijing,Happiness Er Village Lane | 34th Hospital No. 34 - Southeast,"No. 88 Wangfujing Street, Dongcheng District, In881F layer Wangfujing Yintai In88 | Beijing Wang ...",5.2,26.59
+236,Drip express,07-13 20:29 Tuesday,Beijing,Archway East Street 23 - West Gate,Guanyin Temple Community 25th,32.73,84.42
+237,Drip express,07-14 10:16 Wednesday,Beijing,Guanyin Temple - North Gate,Zaoyuan - Metro Station,3.9,14.26
+238,Drip express,07-14 11:45 Wednesday,Beijing,Xinghua Street | Zaoyuan Subway Station B,"Anzhen | No. 23 East Street, East Street",29.3,67.54
+239,Drip express,07-14 13:06 Wednesday,Beijing,An Hui | An Huari Community - West 1,Industry | Glorous International Apartments,8.49,16.71
+240,Drip express,07-14 15:05 Wednesday,Beijing,Chaowai Street | Beijing Workers Stadium - 2 Nanshan,Guanyin Temple Community 25th,32.61,78.67
+241,Drip express,07-16 12:20 Friday,Beijing,Guanyin Temple - North Gate,Huang Village West Street - Subway Station,1.62,10.92
+242,Drip express,07-16 13:38 Friday,Beijing,Chaoyang Park | Juji Metro Station,Chaoyang Park | Solana Blue Harbor - East Five Gate,0,4
+243,Drip express,07-17 13:08 Saturday,Beijing,Junyi Lily Boutique Hotel (South Subway Station),Guanyin Temple Community 25th,8.5,27.1
+244,Drip express,07-20 11:42 Tuesday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Wanlongzhou Seafood (Daxing),4.7,15.38
+245,Dripper,07-20 14:06 Tuesday,Beijing,Greenland Central Plaza · Hongsheng Center - West Gate,Metro Line 4 Daxing Line Zaoyuan - Metro Station | Zaoyuan Subway Station D,1.9,20.29
+246,Drip express,07-20 20:49 Tuesday,Beijing,Xinghua Street | Rainbow New City - Opposite West Gate,Guanyin Temple Community 25th,7.2,26.63
+247,Drip express,07-21 12:46 Wednesday,Beijing,Guanyin Temple - North Gate,Huang Village West Street - Subway Station,2.1,13
+248,Drip express,07-22 20:31 Thursday,Beijing,Xingfeng Street | Greenland Colorful Chengbei District (Exit),Guanyin Temple Community 25th,7.89,27.6
+249,Drip express,07-25 10:53 Sunday,Beijing,Guanyin Temple - North Gate,Zaoyuan - Metro Station,3.94,12.07
+250,Drip express,07-28 12:48 Wednesday,Beijing,Xuanwumen Subway Station G,Zaoyuan - Metro Station,20,50.15
+251,Drip express,07-28 14:31 Wednesday,Beijing,Guanyin Temple North Railway - West 1,Haizi | Beijing Zhicheng Notary Office,1.2,13
+252,Drip express,07-28 14:56 Wednesday,Beijing,Huang Ma Road | Beijing Zhicheng Notary Office,Xinghua Street | Beijing Petrochemical Institute - South Gate,5.9,17.06
+253,Drip express,07-28 17:31 Wednesday,Beijing,Xinghua Street | Beijing Petrochemical Institute - South Gate,"No. 2, Zaoyuan Lane, Daxing District | Zaoyuan Shangcheng South District",2.2,14
+254,Drip express,07-29 09:40 Thursday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Beijing Petrochemical Institute - South Gate,3.7,15.15
+255,Drip express,07-29 10:55 Thursday,Beijing,Xinghua Street | Beijing Petrochemical Institute - South Gate,Guanyin Temple Community 25th,4.1,14.54
+256,Drip express,07-29 12:33 Thursday,Beijing,Guanyin Temple - North Gate,Old Palace | Ming Yue Bay - 1 door,12.6,32.94
+257,Drip express,07-29 22:32 Thursday,Beijing,West Red Gate | Hongkun Ideal City 4 - South Gate,Guanyin Temple Community 25th,8.5,32.88
+258,Drip express,07-30 09:49 Friday,Beijing,Guanyin Temple - North Gate,Haizi | Beijing Zhicheng Notary Office,1.1,14
+259,Drip express,07-30 10:10 Friday,Beijing,Huang Ma Road | Beijing Zhicheng Notary Office,Huangcun | Daxing Joychun,2.7,13
+260,Drip express,07-30 20:44 Friday,Beijing,"No. 189, Xingsheng Street - East 2",Guanyin Temple Community 25th,4.9,17.14
+261,Drip express,07-31 17:10 Saturday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Zaoyuan Shangcheng South District - North Gate,4.3,14.99
+262,Drip express,08-02 11:46 Monday,Beijing,Xinghua Street | Zaoyuan Shangcheng South District - South Gate,East Bridge | Beijing Qiaofu,32.2,78.48
+263,Drip express,08-02 14:41 Monday,Beijing,Beijing Qiao Fufang grass - get on the spot,Guanyin Temple Community 25th,30.4,75.23
+264,Drip express,08-02 19:51 Monday,Beijing,Guanyin Temple | Li Feng Hotel - 1 East,Daxing District | No. 189 Xingsheng Street - East 2,6.2,22.48
+265,Drip express,08-07 10:33 Saturday,Beijing,Guanyin Temple - North Gate,Daxing District Zaoyuan East 38 | Han Emperor Hanor (Kangzhuang Road),4.5,15.3
+266,Drip express,08-07 10:56 Saturday,Beijing,Xinghua Street | Shou Yucheng - North 2,Beijing Hui Guan Center (West Hongmen Store),4.2,14.84
+267,Drip express,08-07 18:53 Saturday,Beijing,"Xinghua Street | Coffee, East Side - Get off",Guanyin Temple Community 25th,2.2,13
+268,Drip express,08-09 16:18 Monday,Beijing,Guanyin Temple - North Gate,Hui · Xihongmen Shopping Center - Northeast Gate,10.7,29.78
+269,Drip express,08-10 09:56 Tuesday,Beijing,Guanyin Temple - North Gate,"No. 189, Xinxing Street, Xingsheng Street and Zaoyuan Road, Daxing District, China | Xingsheng Street 1 ...",4.9,15.25
+270,Drip express,08-12 15:22 Thursday,Beijing,Guanyin Temple - North Gate,Xinghua Street | All Season Hotel (Beijing Daxing Greenland Colorful City),8.3,25.92
+271,Drip express,08-12 19:55 Thursday,Beijing,Xinghua Street | All Season Hotel (Beijing Daxing Greenland Collection) Northeast Side - Gettle,Daxing District | No. 189 Xingsheng Street - East 2,3.11,14.47
+272,Drip express,08-13 20:13 Friday,Beijing,Huangcun | Fire Temple - North Gate,Guanyin Temple Community 25th,10.03,35.71
+273,Drip express,08-15 10:37 Sunday,Beijing,Daxing District. Nanhu Lane | Guanyin Temple - North Gate,Xinghua Street | Zaoyuan Shangcheng South District - North Gate,4.61,13.48
+274,Drip express,08-16 17:58 Monday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Wanlongzhou Seafood (Daxing),4.9,15.46
+275,Drip express,08-17 18:19 Tuesday,Beijing,Jinghua South Street | Hanwei Building - North 2,Xinghua Street | Orange Hotel (Beijing Huangcun Gaoomi Northern Subway Station),0,4
+276,Drip express,08-18 07:23 Wednesday,Beijing,Beijing Millennium Hotel - Mainmen,"Building 25, Guanyin Temple, Daxing District, Beijing | Tangyin Temple Community No. 25 Building",36.1,101.73
+277,Drip express,08-18 15:05 Wednesday,Beijing,Guanyin Temple - North Gate,Xinghua Street | Zaoyuan Shangcheng South District - North Gate,4.5,15.1
+278,Drip express,08-18 15:45 Wednesday,Beijing,Xinghua Street | Zaoyuan Shangcheng South District - East Gate,"Right Anmen | Beijing You'an Hospital, Capital Medical University - West 1",17.26,35.42
+279,Drip express,08-18 18:56 Wednesday,Beijing,Beijing Longhu Daxingtian Street - Southeast Gate,Daxing District | No. 189 Xingsheng Street - East 2,7.7,27.36
+280,Drip express,08-18 20:09 Wednesday,Beijing,"No. 189, Xingsheng Street - East 2",Xingye Street | Red Wooden Community North District - South Gate,1.01,11.76
